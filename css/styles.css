@@ -9,24 +9,9 @@ p{
     font-size: 1rem;
 }
 
-h1{
-    font-size: 2rem;
-}
-
-h2{
-    font-size: 1.5rem;
-}
 
 h3{
     font-size: 1.3rem;
-}
-
-h4{
-    font-size: 1.2rem;
-}
-
-h5{
-    font-size: 1.15rem;
 }
 
 h6{
@@ -82,7 +67,7 @@ body{
     float: left;
 }
 
-.column-nav{
+.column-navegacion{
     width: 25%;
     float: left;
 }
@@ -182,7 +167,7 @@ footer p{
     padding: 6%;
 }
 
-.back-white{
+.blanco{
     background-color: white;
 }
 @media only screen and (max-width: 600px) {
@@ -194,7 +179,7 @@ footer p{
         width: 50%;
     }
 
-    .column-75,.column-nav{
+    .column-75,.column-navegacion{
         width: 100%;
     }
 }
